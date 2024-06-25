@@ -1,6 +1,7 @@
 # 📊 Calorie Tracker
 
 ![Mockup](public/mockup-browser.png)
+![Mockup](public/mockup-browser-2.png)
 
 ## 📖 Project Description
 Calorie Tracker is a web application where you can keep track of your consumed calories along with the calories burned through physical activity. Additionally, you can view the difference, helping you determine if you are in a caloric deficit or surplus.
